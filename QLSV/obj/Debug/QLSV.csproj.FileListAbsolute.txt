@@ -1,0 +1,194 @@
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\QLSV.dll.config
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\QLSV.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\QLSV.pdb
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\csc.exe
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\csc.exe.config
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\csc.rsp
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\csi.exe
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\csi.exe.config
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\csi.rsp
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.Managed.Core.targets
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.AppContext.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Collections.Immutable.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Console.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Globalization.Calendars.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.IO.Compression.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.IO.FileSystem.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Net.Http.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Net.Sockets.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Reflection.Metadata.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.ValueTuple.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Xml.XmlDocument.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Xml.XPath.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\vbc.exe
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\vbc.exe.config
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\vbc.rsp
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\VBCSCompiler.exe
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\VBCSCompiler.exe.config
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Antlr3.Runtime.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Microsoft.Web.Infrastructure.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Newtonsoft.Json.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Helpers.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Mvc.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Optimization.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Razor.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.WebPages.Deployment.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.WebPages.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.WebPages.Razor.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\WebGrease.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Helpers.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Mvc.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Optimization.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Razor.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.WebPages.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.WebPages.Deployment.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.WebPages.Razor.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Newtonsoft.Json.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Antlr3.Runtime.pdb
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\obj\Debug\QLSV.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\EntityFramework.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\EntityFramework.SqlServer.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\EntityFramework.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\EntityFramework.SqlServer.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\ClosedXML.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\DocumentFormat.OpenXml.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\ExcelNumberFormat.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.IO.Packaging.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\ClosedXML.pdb
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\ClosedXML.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\DocumentFormat.OpenXml.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\ExcelNumberFormat.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\PagedList.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\PagedList.Mvc.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\PagedList.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\PagedList.Mvc.xml
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Rotativa.Core.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Rotativa.MVC.dll
+D:\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\obj\Debug\QLSV.csprojAssemblyReference.cache
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\QLSV.dll.config
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\QLSV.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\QLSV.pdb
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\csc.exe
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\csc.exe.config
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\csc.rsp
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\csi.exe
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\csi.exe.config
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\csi.rsp
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.AppContext.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Collections.Immutable.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Console.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Globalization.Calendars.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.IO.Compression.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.IO.FileSystem.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Net.Http.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Net.Sockets.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.ValueTuple.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Xml.XPath.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\vbc.exe
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\vbc.exe.config
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\vbc.rsp
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\VBCSCompiler.exe
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\roslyn\VBCSCompiler.exe.config
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Antlr3.Runtime.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\ClosedXML.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\DocumentFormat.OpenXml.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\EntityFramework.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\EntityFramework.SqlServer.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\ExcelNumberFormat.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Microsoft.Web.Infrastructure.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Newtonsoft.Json.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\PagedList.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\PagedList.Mvc.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Rotativa.Core.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Rotativa.MVC.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.IO.Packaging.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Helpers.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Mvc.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Optimization.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Razor.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.WebPages.Deployment.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.WebPages.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.WebPages.Razor.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\WebGrease.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\ClosedXML.pdb
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\ClosedXML.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\DocumentFormat.OpenXml.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\EntityFramework.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\EntityFramework.SqlServer.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\ExcelNumberFormat.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\PagedList.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\PagedList.Mvc.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Helpers.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Mvc.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Optimization.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.Razor.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.WebPages.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.WebPages.Deployment.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\System.Web.WebPages.Razor.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Newtonsoft.Json.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Antlr3.Runtime.pdb
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\obj\Debug\QLSV.dll
+D:\IT\Subject\.NET\New folder\4251050066_NguyenVanDia_ASPCK\QLSV\QLSV\obj\Debug\QLSV.pdb
